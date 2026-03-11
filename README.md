@@ -4,7 +4,7 @@
 
 I am the Author and Maintainer of [**ArchipelagoEngine**](https://github.com/njtalingting/ArchipelagoEngine), a CRAN-verified R package designed to address the unique problems of fragmented topographies in spatial econometrics, especially island connectivity, through Spatial Weight Matrix (_W_) specification.
 
-### 🚢 The Mission: Archipelago Engine
+### 🚢 The Mission: ArchipelagoEngine
 [![](https://www.r-pkg.org/badges/version/ArchipelagoEngine)](https://cran.r-project.org/package=ArchipelagoEngine)
 
 Standard spatial weight matrices assume contiguous landmasses. My framework recalibrates these matrices for **fragmented topographies**, providing a computational solution for SUTVA violations in maritime policy auditing, robust public health mapping, among other practical applications!
