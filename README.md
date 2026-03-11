@@ -2,12 +2,12 @@
 
 **Global spatial models are built for continents; I built one for the archipelagos.**
 
-I am the Author and Maintainer of [**ArchipelagoEngine**](https://github.com/njtalingting/ArchipelagoEngine), a CRAN-verified R package designed to address the unique problems of fragmented topographies in spatial econometrics, especially island connectivity, through Spatial Weight Matrix (W) specification.
+I am the Author and Maintainer of [**ArchipelagoEngine**](https://github.com/njtalingting/ArchipelagoEngine), a CRAN-verified R package designed to address the unique problems of fragmented topographies in spatial econometrics, especially island connectivity, through Spatial Weight Matrix (_W_) specification.
 
 ### 🚢 The Mission: Archipelago Engine
 [![](https://www.r-pkg.org/badges/version/ArchipelagoEngine)](https://cran.r-project.org/package=ArchipelagoEngine)
 
-Standard spatial weight matrices (W) assume contiguous landmasses. My framework recalibrates these matrices for **fragmented topographies**, providing a computational solution for SUTVA violations in maritime policy auditing, robust public health mapping, among other practical applications!
+Standard spatial weight matrices assume contiguous landmasses. My framework recalibrates these matrices for **fragmented topographies**, providing a computational solution for SUTVA violations in maritime policy auditing, robust public health mapping, among other practical applications!
 
 * **Current State (v0.1.1):** Establishes a topological $k=5$ baseline for maritime connectivity.
 * **Active Research:** Transitioning to **dynamic modeling** by integrating scraped AIS (Automatic Identification System) satellite data.
