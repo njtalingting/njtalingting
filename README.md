@@ -2,7 +2,7 @@
 
 **Global spatial models are built for continents; I built one for the archipelagos.**
 
-I am the Author and Maintainer of [**ArchipelagoEngine**](https://github.com/njtalingting/ArchipelagoEngine), a CRAN-verified R package designed to address the unique problem of fragmented topographies in spatial econometrics. 
+I am the Author and Maintainer of [**ArchipelagoEngine**](https://github.com/njtalingting/ArchipelagoEngine), a CRAN-verified R package designed to address the unique problems of fragmented topographies in spatial econometrics, especially island connectivity.
 
 ### 🚢 The Mission: Archipelago Engine
 [![](https://www.r-pkg.org/badges/version/ArchipelagoEngine)](https://cran.r-project.org/package=ArchipelagoEngine)
