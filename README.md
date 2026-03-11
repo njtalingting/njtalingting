@@ -1,8 +1,8 @@
-# Hey, I'm NJ 👋
+# Hello, I'm NJ! 👋
 
-**"Global spatial models are built for continents; I built one for the archipelagos."**
+**Global spatial models are built for continents; I built one for the archipelagos.**
 
-I am the Author and Maintainer of [**ArchipelagoEngine**](https://github.com/njtalingting/ArchipelagoEngine), a CRAN-verified R package designed to bypass the **"Continental Fallacy"** in spatial econometrics. 
+I am the Author and Maintainer of [**ArchipelagoEngine**](https://github.com/njtalingting/ArchipelagoEngine), a CRAN-verified R package designed to address the unique problem of fragmented topographies in spatial econometrics. 
 
 ### 🚢 The Mission: Archipelago Engine
 [![](https://www.r-pkg.org/badges/version/ArchipelagoEngine)](https://cran.r-project.org/package=ArchipelagoEngine)
@@ -19,6 +19,4 @@ Standard spatial weight matrices (W) assume contiguous landmasses. My framework 
 - **Education:** Statistics @ Cebu, Philippines.
 
 ### 📫 Let's Collaborate
-Always open to discussing spatial data science, port logistics, and econometrics.
-- **Email:** ninotalingting77@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/njtalingting/]
+Always open to discussing spatial data science, port logistics, and econometrics @ **email:** ninotalingting77@gmail.com and **LinkedIn:** https://www.linkedin.com/in/njtalingting/.
