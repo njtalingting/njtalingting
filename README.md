@@ -1,4 +1,5 @@
-# Hello, I'm NJ! 👋
+# Hello, I'm NJ! 👋 
+[![name status badge](https://njtalingting.r-universe.dev/badges/:name)](https://njtalingting.r-universe.dev/)
 
 **Global spatial models are built for continents; I built one for the archipelagos.**
 
